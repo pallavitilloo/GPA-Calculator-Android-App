@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GPA_tilloop1_Calculator</string>
+    <string name="lblAppTitle">GPA Calculator</string>
+    <string name="lblCourse1">Web Development</string>
+    <string name="lblCourse2">Data Mining</string>
+    <string name="lblCourse3">Mobile Computing</string>
+    <string name="lblCourse4">Machine Learning</string>
+    <string name="lblCourse5">Computer Architecture</string>
+    <string name="lblButton">Compute GPA</string>
+</resources>
